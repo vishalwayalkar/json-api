@@ -1,0 +1,211 @@
+{
+  "lighthouse": [
+    {
+      "id": 1,
+      "name": "LightHouse_Hadapsar",
+      "pincode": 412308
+    },
+    {
+      "id": 2,
+      "name": "LightHouse_Bibwewadi",
+      "pincode": 112233
+    },
+    {
+      "id": 3,
+      "name": "LightHouse_Aundh",
+      "pincode": "445566"
+    },
+    {
+      "id": 4,
+      "name": "LightHouse_Baner",
+      "pincode": "778899"
+    },
+    {
+      "id": 5,
+      "name": "LightHouse_Pimpri",
+      "pincode": "555555"
+    },
+    {
+      "name": "LighHouse_Swargate",
+      "pincode": "112233",
+      "id": 6
+    },
+    {
+      "name": "Lighthouse_Khamgaon",
+      "pincode": "412214",
+      "id": 7
+    }
+  ],
+  "courses": [
+    {
+      "id": 101,
+      "name": "Full-Stack",
+      "duration": 6
+    },
+    {
+      "id": 102,
+      "name": "Angular11",
+      "duration": "4"
+    },
+    {
+      "id": 103,
+      "name": "DM",
+      "duration": "3"
+    },
+    {
+      "name": "Java",
+      "duration": "4",
+      "id": 104
+    },
+    {
+      "name": "Python",
+      "duration": "3",
+      "id": 105
+    },
+    {
+      "name": "MERN",
+      "duration": "3",
+      "id": 106
+    }
+  ],
+  "enrollment": [
+    {
+      "id": 1,
+      "fname": "Vishal Wayalkar",
+      "contact": 9075757321,
+      "email": "vishalwayalkar2018@gmail.com",
+      "qualification": "BE",
+      "Specilization": "IT",
+      "appearing": "Appearing",
+      "yop": "2022",
+      "clgnm": "JSPM",
+      "city": "Pune",
+      "work_exp": "0",
+      "org": "LightHouse",
+      "branch": "LightHouse_Hadapsar",
+      "course": "Full-Stack",
+      "ref": "Friend",
+      "batchtype": "Weekend"
+    },
+    {
+      "id": 2,
+      "fname": "Vishal",
+      "contact": "1234567890",
+      "email": "xyz@gmail.com",
+      "qualification": "MSC",
+      "Specilization": "CS",
+      "appearing": "Completed",
+      "yop": "2019",
+      "clgnm": "PDEA IOT, Pune",
+      "city": "Mumbai",
+      "work_exp": "0",
+      "org": "Hemitite",
+      "branch": "",
+      "course": "Java",
+      "ref": "Ads",
+      "batchtype": "Daily"
+    },
+    {
+      "id": 4,
+      "fname": "Pqr",
+      "contact": 9876543210,
+      "email": "pqr@gmail.com",
+      "qualification": "BSC",
+      "Specilization": "CS",
+      "appearing": "Completed",
+      "yop": "2020",
+      "clgnm": "JSPM",
+      "city": "Pune",
+      "work_exp": "1",
+      "org": "LightHouse",
+      "branch": "LightHouse_Aundh",
+      "course": "Full-Stack",
+      "ref": "Friend",
+      "batchtype": "Weekend"
+    },
+    {
+      "id": 6,
+      "fname": "Abc",
+      "contact": "1234567890",
+      "email": "abc@gmail.com",
+      "qualification": "BE",
+      "Specilization": "IT",
+      "appearing": "Appearing",
+      "yop": "2022",
+      "clgnm": "JSPM",
+      "city": "Pune",
+      "work_exp": "1",
+      "org": "LightHouse",
+      "branch": "LightHouse_Hadapsar",
+      "course": "Full-Stack",
+      "ref": "Ads",
+      "batchtype": "Weekend"
+    },
+    {
+      "fname": "Klm",
+      "contact": "0987654321",
+      "email": "klm@gmail.com",
+      "qualification": "BSC",
+      "Specilization": "CS",
+      "appearing": "Completed",
+      "yop": "2019",
+      "clgnm": "MPMV",
+      "city": "Pune",
+      "work_exp": "0",
+      "org": "Lighthouse",
+      "branch": "LightHouse_Hadapsar",
+      "course": "Java",
+      "ref": "Friend",
+      "batchtype": "Daily",
+      "id": 7
+    },
+    {
+      "fname": "AAAA",
+      "contact": "1234567890",
+      "email": "aa@gmail.com",
+      "qualification": "BSC",
+      "Specilization": "CS",
+      "appearing": "Completed",
+      "yop": "2022",
+      "clgnm": "JSCOE",
+      "city": "Pune",
+      "work_exp": "0",
+      "org": "Lighthouse",
+      "branch": "LightHouse_Hadapsar",
+      "course": "Angular",
+      "ref": "Poster",
+      "batchtype": "Daily",
+      "id": 8
+    },
+    {
+      "fname": "Nana",
+      "contact": "0123456789",
+      "email": "nana@gmail.com",
+      "qualification": "BE",
+      "Specilization": "IT",
+      "appearing": "Appearing",
+      "yop": "",
+      "clgnm": "DY Patil",
+      "city": "Pune",
+      "work_exp": "0",
+      "org": "Lighthouse",
+      "branch": "Lighthouse_yavat",
+      "course": "MERN",
+      "ref": "Friend",
+      "batchtype": "Daily",
+      "id": 9
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "uname": "vishal",
+      "upass": "vishal@123"
+    },
+    {
+      "id": 2,
+      "uname": "admin",
+      "upass": "admin@123"
+    }
+  ]
+}
